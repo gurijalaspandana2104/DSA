@@ -49,3 +49,4 @@ class TimeMap {
         
     }
 }
+//o(1) time complexity
